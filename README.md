@@ -2,6 +2,8 @@
 
 A modern, responsive developer portfolio website built with Nuxt.js and Vue.js.
 
+🌐 **Live Demo:** [https://developer-portfolio-nuxt.vercel.app/](https://developer-portfolio-nuxt.vercel.app/)
+
 ## 🚀 Features
 
 - Responsive layout for all devices
@@ -103,6 +105,6 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## 📞 Contact
 
-Mokammel Tanvir - [your.email@example.com](mailto:your.email@example.com)
+Mokammel Tanvir - [tanvir@mokammeltanvir.com](mailto:tanvir@mokammeltanvir.com)
 
 Project Link: [https://github.com/MokammelTanvir/developer-portfolio-nuxt](https://github.com/MokammelTanvir/developer-portfolio-nuxt)
